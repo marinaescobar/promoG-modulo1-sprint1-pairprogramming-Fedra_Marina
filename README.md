@@ -12,5 +12,5 @@ Ejercicios de programación del curso de Data Analytics en Adalab. Estos ejercic
 
 ## Alumnas
 
-- [@marinaescobar](https://www.github.com/marinaescobar)
 - [@fedraca](https://www.github.com/fedraca)
+- [@marinaescobar](https://www.github.com/marinaescobar)
